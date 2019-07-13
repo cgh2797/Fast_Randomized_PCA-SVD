@@ -1,5 +1,6 @@
 ``fbpca`` - Functions for principal component analysis (PCA)
 ============================================================
+implemented by facebook
 
 Requirements
 ------------
